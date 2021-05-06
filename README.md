@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **techlord001/techlord001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a full-stack web developer by trade, with my primary experience being on the front-end. However I am knowledge on all sides of web development from design to deployment. My favourite technologies are Javascript, Vue.js & Laravel. 
+
 ***
 ### 🧰 Toolbox
 |Front-End|Server-Side Scripting|Databases|Design|
