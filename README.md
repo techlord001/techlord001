@@ -34,3 +34,5 @@ Down below you can see the technologies that I have experience with in my toolbo
 |----------|---------------|-----|
 |<img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="Vuetify" width=40 height=40/><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="NuxtJS" width=40 height=40/>|<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width=40 height=40/>|<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width=40 height=40/>
 ***
+### 💹 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techlord001&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
