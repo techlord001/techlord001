@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a full-stack web developer by trade, with my primary experience being on the front-end. However I am knowledge on all sides of web development from design to deployment. My favourite technologies are Javascript, Vue.js & Laravel. 
+I'm a full-stack web developer by trade, with my primary experience being on the front-end. However I am knowledge on all sides of web development from design to deployment. My favourite technologies are Javascript, Vue.js & Laravel.
+
+Down below you can see the technologies that I have experience with in my toolbox, and the technologies that I'm in the middle of learning.
 
 ***
 ### 🧰 Toolbox
@@ -30,5 +32,5 @@ I'm a full-stack web developer by trade, with my primary experience being on the
 ### 🌱 Learning
 |Frameworks|App Development|Cloud|
 |----------|---------------|-----|
-|<img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="Vuetify" width=40 height=40/>|<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width=40 height=40/>|<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width=40 height=40/>
+|<img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="Vuetify" width=40 height=40/><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="NuxtJS" width=40 height=40/>|<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width=40 height=40/>|<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width=40 height=40/>
 ***
